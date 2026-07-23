@@ -1,4 +1,4 @@
-public class Even {
+public class Odd {
     public static void noop(){
     
         for(int i=0;i<=20;i++){

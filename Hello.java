@@ -1,8 +1,13 @@
 public class Hello{
+    public static void greet(){
+        System.out.println("Hello java!");
+    }
     public static void main(String[] args) {
-        public static void greed(){
-            
-        }
+        greet();
         
     }
 }
+
+        
+
+
